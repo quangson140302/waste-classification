@@ -1,4 +1,4 @@
-# ZIT WASTE API
+# WASTE API
 
 ## Hướng dẫn cài đặt
 
